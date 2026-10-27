@@ -41,12 +41,11 @@ PARABENS! Voce descobriu a palavra em 3/6 tentativas!
 
 ## Integrantes do Grupo
 
-- **Grupo:** `[PREENCHER — Nome ou Número do Grupo]`
-- `[PREENCHER — Nome Completo 1 — RA]`
-- `[PREENCHER — Nome Completo 2 — RA]`
-- `[PREENCHER — Nome Completo 3 — RA]`
-- `[PREENCHER — Nome Completo 4 — RA]`
-- `[PREENCHER — Nome Completo 5 — RA]`
+- Breno Porto Pinheiro do Prado
+- Felipe Pereira Silva
+- Guilherme Bento Ramos
+- José Rubens Freitas Pinheiro
+- Luis Fernando Giaquinto Zólio
 
 ---
 

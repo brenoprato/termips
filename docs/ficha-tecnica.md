@@ -14,6 +14,12 @@ O **TerMIPS** é um jogo interativo de adivinhação de palavras de 5 letras em 
 ## 3. Estruturas de Dados e Procedimentos
 - *A detalhar na Fase 2 conforme avanço de `src/termips.asm` (localização dos requisitos técnicos, uso de registradores/pilha e contagem de instruções úteis).*
 
-## 4. Contribuição dos Integrantes e Feedback
-- **Integrantes e contribuições:** `[PREENCHER]`
+## 4. Integrantes, Divisão de Tarefas e Feedback
+- **Integrantes:**
+  - Breno Porto Pinheiro do Prado
+  - Felipe Pereira Silva
+  - Guilherme Bento Ramos
+  - José Rubens Freitas Pinheiro
+  - Luis Fernando Giaquinto Zólio
+- **Divisão de trabalho:** O desenvolvimento foi dividido em 5 frentes entre os integrantes (1. Menu, banco de palavras e sorteio; 2. Leitura e validação de entradas; 3. Avaliação das tentativas e letras repetidas; 4. Histórico, exibição e controle de partida; 5. Testes reproduzíveis, documentação e vídeo), com revisão cruzada de todo o código por todos os membros.
 - **Síntese do feedback da Demonstração 1 (11/11):** `[A preencher após apresentação em laboratório]`

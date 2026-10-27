@@ -7,13 +7,12 @@
 ## 1. Nome Provisório, Grupo e Integrantes
 
 - **Nome provisório do produto:** TerMIPS
-- **Identificação do grupo:** `[PREENCHER — Nome ou Número do Grupo]`
 - **Integrantes:**
-  - `[PREENCHER — Nome Completo 1 — RA]`
-  - `[PREENCHER — Nome Completo 2 — RA]`
-  - `[PREENCHER — Nome Completo 3 — RA]`
-  - `[PREENCHER — Nome Completo 4 — RA]`
-  - `[PREENCHER — Nome Completo 5 — RA]`
+  - Breno Porto Pinheiro do Prado
+  - Felipe Pereira Silva
+  - Guilherme Bento Ramos
+  - José Rubens Freitas Pinheiro
+  - Luis Fernando Giaquinto Zólio
 
 ---
 
@@ -68,10 +67,10 @@ Parabens! Voce descobriu a palavra em 2/6 tentativas!
 ## 5. Escopo Mínimo, Divisão Inicial de Tarefas e Link do GitHub
 
 - **Escopo mínimo (MVP):** Jogo completo em texto no console do MARS com menu (`Jogar`, `Tutorial` e `Sair`), palavras de 5 letras sem acento, até 6 tentativas, banco interno de ~200 palavras com sorteio (e uma constante interna configurável no código para fixar a palavra durante os testes reproduzíveis), validação de entradas, regra explícita para letras repetidas e exibição do histórico da partida. *(Ideias extras, como exibir um painel das letras do alfabeto já testadas ou ler palavras de arquivo `.txt`, ficam apenas como extensões opcionais se sobrar tempo).*
-- **Divisão inicial de tarefas:**
-  - `[PREENCHER — Integrante 1]`: Menu principal (`Jogar`, `Tutorial`, `Sair`), organização dos dados em memória, banco de palavras e sorteio.
-  - `[PREENCHER — Integrante 2]`: Leitura pelo teclado, conversão de minúsculas para maiúsculas e validação de entradas inválidas.
-  - `[PREENCHER — Integrante 3]`: Lógica de comparação das palavras e regra para letras repetidas.
-  - `[PREENCHER — Integrante 4]`: Armazenamento do histórico de jogadas, exibição do tabuleiro no console e condições de vitória/derrota.
-  - `[PREENCHER — Integrante 5 / Todos]`: Bateria de testes reproduzíveis no MARS, documentação (`ficha-tecnica.md`, `testes.md`, `uso-ia.md`), gravação do vídeo e revisão conjunta de todo o código para a prova individual.
-- **Link do repositório no GitHub:** `[PREENCHER — https://github.com/USUARIO/termips]`
+- **Divisão inicial de tarefas (dividida em 5 frentes entre os integrantes):**
+  1. **Parte 1:** Menu principal (`Jogar`, `Tutorial`, `Sair`), organização dos dados em memória, banco de palavras e sorteio.
+  2. **Parte 2:** Leitura pelo teclado, conversão de minúsculas para maiúsculas e validação de entradas inválidas.
+  3. **Parte 3:** Lógica de comparação das palavras e regra em duas etapas para letras repetidas.
+  4. **Parte 4:** Armazenamento do histórico de jogadas, exibição do tabuleiro no console e condições de vitória/derrota.
+  5. **Parte 5:** Bateria de testes reproduzíveis no MARS, documentação (`ficha-tecnica.md`, `testes.md`, `uso-ia.md`), gravação do vídeo e revisão conjunta de todo o código para a prova individual.
+- **Link do repositório no GitHub:** `https://github.com/brenoprato/termips`
